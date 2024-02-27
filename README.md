@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Springs.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email:Junaidfs91@gmail.com
-- 😄 Pronouns: Quick/Learner.
 - ⚡ Fun fact: I play lots of video games.
 
 <!---
