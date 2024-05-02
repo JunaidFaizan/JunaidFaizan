@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email:Junaid.Faizan.Codes@gmail.com
-- ⚡ Fun fact: I play lots of video games.
+
 
 <!---
 JunaidFaizan/JunaidFaizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
