@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JunaidFaizan
 - 👀 I’m currently looking for a job as a fresher in full stack development.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email:Junaid.Faizan.Codes@gmail.com
 
